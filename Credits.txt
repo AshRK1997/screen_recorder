@@ -1,0 +1,26 @@
+Credits to logo:
+
+1. Icons made by (https://www.flaticon.com/authors/freepik) Freepik from https://www.flaticon.com/
+2. Icons made by (https://www.flaticon.com/authors/pixel-perfect) Pixel perfect from https://www.flaticon.com/
+3. Background by (https://www.freepik.com/free-photos-vectors/background) freepik
+4. Icons made by itim2101 from www.flaticon.com (https://www.flaticon.com/authors/itim2101)
+5. Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+6. Icons made by <a href="https://www.flaticon.com/authors/iconixar" title="iconixar">iconixar</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+
+Credits all Libraries used:-
+
+    opencv
+    numpy
+    time
+    mss
+    pyautogui
+    Pillow
+    Tkinter
+    pyaudio
+    wave
+    subprocess
+    ffmpeg
+    portaudio
+
+
